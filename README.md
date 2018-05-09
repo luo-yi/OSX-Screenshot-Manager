@@ -1,0 +1,1 @@
+# OSX-Screenshot-Manager
